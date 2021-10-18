@@ -91,6 +91,6 @@ public:
 	void Clear() {
 		m_keys.clear();
 		m_nodes.clear();
-	}; 
+	};
 
 };
